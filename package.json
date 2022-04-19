@@ -1,0 +1,19 @@
+{
+  "name": "cs20",
+  "version": "1.0.0",
+  "description": "node app ",
+  "main": "test_heroku.js",
+  "scripts": {
+  "start": "node test_heroku.js"
+},
+  "repository": {
+  "type": "git",
+  "url": ""
+},
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+  "url": ""
+},
+  "homepage": ""
+}
